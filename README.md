@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :gmail-romesa.rajpoot2@gmail.com
+- 📫 How to reach me :gmail-romishamaria@gmail.com
 
 <!---
 Romisha-Maria/Romisha-Maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
